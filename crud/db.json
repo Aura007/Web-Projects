@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Aura Shanagonda",
+      "phone": "8106470642",
+      "place": "Karimangar"
+    },
+    {
+      "id": "3",
+      "name": "Akshay",
+      "phone": "7317195875",
+      "place": "Jagitial"
+    }
+  ]
+}
